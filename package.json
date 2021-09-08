@@ -135,7 +135,7 @@
   },
   "iohook": {
     "targets": [
-      "node-85",
+      "node-83",
       "electron-85"
     ],
     "platforms": [
